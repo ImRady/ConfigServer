@@ -1,5 +1,5 @@
 account:
-  msg: Welcome to Bank Account Prod application file System
+  msg: Welcome to Bank Account Prod application from git System
   build-version: 3.0.0
 
   mailDetails:
